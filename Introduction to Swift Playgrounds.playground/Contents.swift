@@ -21,6 +21,17 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+//Part 9: On your own
+
+var myFourthVariable = "I am studying"
+
+var myFifthVariable = " the Swift programming language,"
+
+var mySixthVariable = " and I am enjoying it."
+
+var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
+
+print(mySeventhVariable)
 
 
 
