@@ -48,6 +48,11 @@ var numberTwo = 7
 
 var comparison = numberOne > numberTwo
 
+//Part 7 On Your Own Part 1:
+
+
+
+//Part 8 On Your Own Part 2:
 
 
 
