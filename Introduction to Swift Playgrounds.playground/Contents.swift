@@ -50,7 +50,12 @@ var comparison = numberOne > numberTwo
 
 //Part 7 On Your Own Part 1:
 
+var textOne = "apple"
+var textTwo = "banana"
 
+var comparisonText = textOne == textTwo
+
+print(comparisonText)
 
 //Part 8 On Your Own Part 2:
 
